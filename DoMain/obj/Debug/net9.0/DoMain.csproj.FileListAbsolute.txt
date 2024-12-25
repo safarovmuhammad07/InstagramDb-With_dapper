@@ -1,0 +1,12 @@
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\bin\Debug\net9.0\DoMain.deps.json
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\bin\Debug\net9.0\DoMain.dll
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\bin\Debug\net9.0\DoMain.pdb
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.csproj.AssemblyReference.cache
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.AssemblyInfoInputs.cache
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.AssemblyInfo.cs
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.csproj.CoreCompileInputs.cache
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.dll
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\refint\DoMain.dll
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\DoMain.pdb
+C:\Users\Safarov\Desktop\.Net Course\InstagramDB(with Dapper)\DoMain\obj\Debug\net9.0\ref\DoMain.dll
